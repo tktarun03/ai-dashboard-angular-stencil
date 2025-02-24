@@ -1,0 +1,11 @@
+{
+    "name": "angular-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-components": "file:../stencil-components/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
